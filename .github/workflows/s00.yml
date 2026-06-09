@@ -1,4 +1,4 @@
-name: "🔧 Environment Setup (reusable)"
+name: "(🛠️) Deploy Dev"
 on: workflow_dispatch
 jobs:
   noop:

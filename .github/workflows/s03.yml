@@ -1,4 +1,4 @@
-name: "Code Review 🔍"
+name: "(🗃️) Migration Linting"
 on: workflow_dispatch
 jobs:
   noop:

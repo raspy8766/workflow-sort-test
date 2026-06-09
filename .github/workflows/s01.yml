@@ -1,4 +1,4 @@
-name: "Migration Linting 🗃️"
+name: "(🎭) E2E (Playwright)"
 on: workflow_dispatch
 jobs:
   noop:

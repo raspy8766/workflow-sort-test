@@ -1,4 +1,4 @@
-name: "PR Validation ✅"
+name: "[🔧] Build and Deploy (reusable)"
 on: workflow_dispatch
 jobs:
   noop:
