@@ -1,4 +1,4 @@
-name: " 🛠️ Deploy Dev"
+name: "🚀 rocket"
 on: workflow_dispatch
 jobs:
   noop:

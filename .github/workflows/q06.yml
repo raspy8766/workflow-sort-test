@@ -1,4 +1,4 @@
-name: " 🤖 OnRamp Agents CI"
+name: " pua-e000"
 on: workflow_dispatch
 jobs:
   noop:

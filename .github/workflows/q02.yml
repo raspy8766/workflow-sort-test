@@ -1,4 +1,4 @@
-name: " 🐍 Python Unit Testing"
+name: "🧹 broom"
 on: workflow_dispatch
 jobs:
   noop:

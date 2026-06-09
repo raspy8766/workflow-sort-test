@@ -1,4 +1,4 @@
-name: "~ Build and Deploy (reusable)"
+name: "🗃️ cardbox"
 on: workflow_dispatch
 jobs:
   noop:

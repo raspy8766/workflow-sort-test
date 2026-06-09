@@ -1,4 +1,4 @@
-name: " ✅ PR Validation"
+name: "𱁬 cjkG"
 on: workflow_dispatch
 jobs:
   noop:

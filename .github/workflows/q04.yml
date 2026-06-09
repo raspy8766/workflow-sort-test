@@ -1,4 +1,4 @@
-name: " 🚀 Promote to Production"
+name: "🛰️ satellite"
 on: workflow_dispatch
 jobs:
   noop:

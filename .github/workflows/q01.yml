@@ -1,4 +1,4 @@
-name: " 🛰️ Drift Sentinel — Prod Commits Reachable from Main"
+name: "🤖 robot"
 on: workflow_dispatch
 jobs:
   noop:
