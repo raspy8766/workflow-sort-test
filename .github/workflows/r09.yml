@@ -1,4 +1,4 @@
-name: "~tilde"
+name: "🔧 Environment Setup (reusable)"
 on: workflow_dispatch
 jobs:
   noop:

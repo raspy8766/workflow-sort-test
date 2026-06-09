@@ -1,4 +1,4 @@
-name: "𱁬 cjkG"
+name: "🔧 Release Analysis (reusable)"
 on: workflow_dispatch
 jobs:
   noop:

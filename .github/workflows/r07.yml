@@ -1,4 +1,4 @@
-name: "󰀀 pua-f0000"
+name: "🔧 Build and Deploy (reusable)"
 on: workflow_dispatch
 jobs:
   noop:

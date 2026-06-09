@@ -1,4 +1,4 @@
-name: "🛰️ satellite"
+name: "Migration Linting 🗃️"
 on: workflow_dispatch
 jobs:
   noop:
