@@ -1,4 +1,4 @@
-name: "(🎭) E2E (Playwright)"
+name: "[🔧] Release Analysis (reusable)"
 on: workflow_dispatch
 jobs:
   noop:

@@ -1,4 +1,4 @@
-name: "~ Release Analysis (reusable)"
+name: "(🔥) Create Hotfix Branch"
 on: workflow_dispatch
 jobs:
   noop:

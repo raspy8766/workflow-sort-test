@@ -1,4 +1,4 @@
-name: "(🗃️) Migration Linting"
+name: "Dependabot Updates"
 on: workflow_dispatch
 jobs:
   noop:

@@ -1,4 +1,4 @@
-name: "(✅) PR Validation"
+name: "(🚑) Promote Hotfix to Production"
 on: workflow_dispatch
 jobs:
   noop:

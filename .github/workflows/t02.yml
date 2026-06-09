@@ -1,4 +1,4 @@
-name: "(🐍) Python Unit Testing"
+name: "(🤖) Deploy Copilot Runtime"
 on: workflow_dispatch
 jobs:
   noop:
